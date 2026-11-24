@@ -1,6 +1,6 @@
 # A Multi-Seed Ablation Study of Pretraining, Augmentation and CLAHE for Small Medical Image Classifiers
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Project1_Ablation_Study.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nishapandey9098/medical-image-classifier-ablation-study/blob/main/Project1_Ablation_Study.ipynb)
 
 > A small, reproducible benchmark study on public low-resolution datasets. **Not validated for clinical use.**
 
